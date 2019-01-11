@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/mmahrous/thumbler#readme",
   "dependencies": {
-    "@ffmpeg-installer/ffmpeg": "^1.0.9"
+    "ffmpeg-static": "^2.4.0"
   }
 }
